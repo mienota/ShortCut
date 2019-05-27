@@ -4,3 +4,6 @@ target software is like chrome, excel, windows, mac, jupyternotebook or any othe
 
 User can easily search shortcut to use and remember. <br>
 List can be sort by javascript and designed by bootstrap.
+
+# how to use
+only to download and open with web browser.
