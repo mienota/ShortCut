@@ -1,5 +1,7 @@
 # getting started
-only to download and open with web browser.
+only to download and open with web browser and bookmark.
+1. copy shortcut_html path.and open with browser and bookmark.
+2. youcan find shortcut html file with browser.
 
 # what is ShortCut
 This repository manage shortcut command for mac or windows and it's friquency<br>
