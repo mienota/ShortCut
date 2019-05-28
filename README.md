@@ -1,6 +1,6 @@
 # getting started
 only to download and open with web browser and bookmark.
-1. copy shortcut_html path.and open with browser and bookmark.
+1. copy shortcut_html path on windows or mac . and open with browser and bookmark.
 2. youcan find shortcut html file with browser.
 
 # what is ShortCut
