@@ -11,3 +11,9 @@ you can easily search shortcut
 
 # Who uses ShortCut?
 everyone
+
+# todo
+* japanese to english
+* sort function
+* include html
+* sort record (important record to be top)
